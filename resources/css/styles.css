@@ -1,6 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display|Poppins:400,800i');
+
 .high{
-  background-color: hotpink;
+  background-color: bisque;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 800;
+  font-style: italic;
+  font-size: 30px;
+
 }
 .low{
   background-color: aqua;
+  font-size: large;
+}
+
+.normal {
+  background-color: white;
+  font-size: auto;
+}
+
+body {
+  font-family: 'Playfair Display', serif;
 }
